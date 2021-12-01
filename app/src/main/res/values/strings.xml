@@ -1,0 +1,21 @@
+<resources>
+    <!--    TODO 2: ubah X jadi kelas, YYYY jadi 4 digit npm-->
+    <string name="app_name">GD12_D_0299</string>
+
+    <string name="nama">Nama</string>
+    <string name="namadepan">Nama Depan</string>
+    <string name="namabelakang">Nama Belakang</string>
+    <string name="tanggalahir">Tanggal lahir [DDMMYY]</string>
+    <string name="semester">Semester</string>
+    <string name="npm">NPM</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="prodi">Prodi</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="edit_mahasiswa">Edit Mahasiswa</string>
+    <string name="loading_text">Loading...</string>
+
+</resources>
